@@ -1,0 +1,28 @@
+Soal 1:
+Input :
+Dua angka integer
+Output:
+Kondisi dari dua angka tersebut (< , >, =)
+
+Contoh :
+Input :
+3 10
+Output :
+< 
+Input :
+10 10
+Output :
+=
+
+
+Soal 2:
+Joko adalah orang yang penuh dengan perencanaan. Dia selalu membeli kebutuhan tiap bulannya di awal bulan. Hanya saja dia harus mengetahui total hari dalam satu bulan. Joko harus mengetahui jumlah hari dari angka bulan dan tahun yang ada.
+Input : Terdiri dari dua angka integer, b yaitu integer yang menunjukkan bulan, dan t yaitu integer yang merupakan tahun.
+Output : Nama bulan dan jumlah hari pada bulan tahun tersebut, dipisahkan koma.
+
+Contoh:
+Input :
+2
+2008
+Output :
+Februari, 29
